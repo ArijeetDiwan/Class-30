@@ -1,2 +1,2 @@
-# Class-30
-Angry bird = pig gone.
+# AngryBirdsStage3
+Stage 3 Angry Birds: Introducing Constraint
